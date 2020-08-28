@@ -1,98 +1,38 @@
 [
   {
-    "banner": "",
-    "description": "",
-    "link": "https://raw.githubusercontent.com/jiteshgupta1995/jiteshtest/master/free-video-3163534.jpg",
-    "linkTitle": "",
-    "logo": "",
-    "title": ""
+    "cta": {
+      "title": "",
+      "link": ""
+    },
+    "imageUrl": "https://raw.githubusercontent.com/jiteshgupta1995/jiteshtest/master/cs720-SNC-WebTestItRotatingAd-_ExtJS_2x.png",
+    "targetUrl": "https://discourse.webtestit.com",
+    "tooltipText": "ExtJs"
   },
   {
-    "banner": "",
-    "description": "",
-    "link": "https://raw.githubusercontent.com/jiteshgupta1995/jiteshtest/master/milky-way-2695569__340.jpg",
-    "linkTitle": "",
-    "logo": "",
-    "title": ""
+    "cta": {
+      "title": "",
+      "link": ""
+    },
+    "imageUrl": "https://raw.githubusercontent.com/jiteshgupta1995/jiteshtest/master/cs720-SNC-WebTestItRotatingAd-_Froala_2x.png",
+    "targetUrl": "https://discourse.webtestit.com",
+    "tooltipText": "Froala"
   },
   {
-    "banner": "",
-    "description": "",
-    "link": "https://raw.githubusercontent.com/jiteshgupta1995/jiteshtest/master/pexels-photo-753626.jpeg",
-    "linkTitle": "",
-    "logo": "",
-    "title": ""
+    "cta": {
+      "title": "",
+      "link": ""
+    },
+    "imageUrl": "https://raw.githubusercontent.com/jiteshgupta1995/jiteshtest/master/cs720-SNC-WebTestItRotatingAd-_FusionCharts_2x.png",
+    "targetUrl": "https://discourse.webtestit.com",
+    "tooltipText": "Fusion charts"
   },
   {
-    "banner": "",
-    "description": "",
-    "link": "https://raw.githubusercontent.com/jiteshgupta1995/jiteshtest/master/free-video-3163534.jpg",
-    "linkTitle": "",
-    "logo": "",
-    "title": ""
-  },
-  {
-    "banner": "",
-    "description": "",
-    "link": "https://raw.githubusercontent.com/jiteshgupta1995/jiteshtest/master/milky-way-2695569__340.jpg",
-    "linkTitle": "",
-    "logo": "",
-    "title": ""
-  },
-  {
-    "banner": "",
-    "description": "",
-    "link": "https://raw.githubusercontent.com/jiteshgupta1995/jiteshtest/master/pexels-photo-753626.jpeg",
-    "linkTitle": "",
-    "logo": "",
-    "title": ""
-  },
-  {
-    "banner": "",
-    "description": "",
-    "link": "https://raw.githubusercontent.com/jiteshgupta1995/jiteshtest/master/free-video-3163534.jpg",
-    "linkTitle": "",
-    "logo": "",
-    "title": ""
-  },
-  {
-    "banner": "",
-    "description": "",
-    "link": "https://raw.githubusercontent.com/jiteshgupta1995/jiteshtest/master/milky-way-2695569__340.jpg",
-    "linkTitle": "",
-    "logo": "",
-    "title": ""
-  },
-  {
-    "banner": "",
-    "description": "",
-    "link": "https://raw.githubusercontent.com/jiteshgupta1995/jiteshtest/master/pexels-photo-753626.jpeg",
-    "linkTitle": "",
-    "logo": "",
-    "title": ""
-  },
-  {
-    "banner": "",
-    "description": "",
-    "link": "https://raw.githubusercontent.com/jiteshgupta1995/jiteshtest/master/free-video-3163534.jpg",
-    "linkTitle": "",
-    "logo": "",
-    "title": ""
-  },
-  {
-    "banner": "",
-    "description": "",
-    "link": "https://raw.githubusercontent.com/jiteshgupta1995/jiteshtest/master/milky-way-2695569__340.jpg",
-    "linkTitle": "",
-    "logo": "",
-    "title": ""
-  },
-  {
-    "banner": "",
-    "description": "",
-    "link": "https://raw.githubusercontent.com/jiteshgupta1995/jiteshtest/master/pexels-photo-753626.jpeg",
-    "linkTitle": "",
-    "logo": "",
-    "title": ""
+    "cta": {
+      "title": "",
+      "link": ""
+    },
+    "imageUrl": "https://raw.githubusercontent.com/jiteshgupta1995/jiteshtest/master/cs720-SNC-WebTestItRotatingAd-_SenchaGrid_2x.png",
+    "targetUrl": "https://discourse.webtestit.com",
+    "tooltipText": "Sencha Grid"
   }
 ]
