@@ -6,7 +6,7 @@
     },
     "imageUrl": "https://raw.githubusercontent.com/extjs/RxSe-Ads/master/cs720-SNC-WebTestItRotatingAd-_ExtJS_2x.png",
     "targetUrl": "https://www.sencha.com/products/extjs/?utm_source=webtestit&utm_medium=referral&utm_content=site-200828-webtestit",
-    "tooltipText": "ExtJs"
+    "tooltipText": "Ext JS"
   },
   {
     "cta": {
@@ -24,7 +24,7 @@
     },
     "imageUrl": "https://raw.githubusercontent.com/extjs/RxSe-Ads/master/cs720-SNC-WebTestItRotatingAd-_FusionCharts_2x.png",
     "targetUrl": "https://www.fusioncharts.com/?utm_source=webtestit&utm_medium=referral&utm_content=site-200828-webtestit",
-    "tooltipText": "Fusion charts"
+    "tooltipText": "FusionCharts"
   },
   {
     "cta": {
